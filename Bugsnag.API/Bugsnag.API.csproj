@@ -56,7 +56,9 @@
     <Compile Include="BugsnagRestClient.cs" />
     <Compile Include="Clients\ICurrentUserClient.cs" />
     <Compile Include="Clients\IErrorsClient.cs" />
+    <Compile Include="Clients\IEventsClient.cs" />
     <Compile Include="Models\Error.cs" />
+    <Compile Include="Models\Event.cs" />
     <Compile Include="Models\Organization.cs" />
     <Compile Include="Models\Project.cs" />
     <Compile Include="PaginatedResponse.cs" />
